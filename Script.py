@@ -248,7 +248,7 @@ Nᴀᴍᴇ - {}"""
 
 <b>⚙️ sɪᴢᴇ : {file_size}</b>
 
-Powered By ⚜️ :「 @Deendayal_Hindi_Movie」
+Powered By ⚜️ :「 @Deendayal_Hindi_Movies」
 """ 
 
     IMDB_TEMPLATE_TXT = """
