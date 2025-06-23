@@ -244,7 +244,7 @@ Nᴀᴍᴇ - {}"""
 
 𝗠𝗲𝘀𝘀𝗮𝗴𝗲 <b>: {}</b>"""
 
-    CAPTION = """<b>📂 ғɪʟᴇɴᴀᴍᴇ : """@Deendayal_Hindi_Movie.<blockquote><a href="https://t.me//Deendayal_Hindi_Movie"><b>@Nobita_Files_Filter_bot {file_name}</b></a></blockquote>
+    CAPTION = """@Deendayal_Hindi_Movie.<blockquote><a href="https://t.me//Deendayal_Hindi_Movie"><b>@Nobita_Files_Filter_bot {file_name}</b></a></blockquote>
 
 <b>⚙️ sɪᴢᴇ : {file_size}</b>""" 
 
