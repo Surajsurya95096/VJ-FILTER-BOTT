@@ -244,9 +244,12 @@ Nᴀᴍᴇ - {}"""
 
 𝗠𝗲𝘀𝘀𝗮𝗴𝗲 <b>: {}</b>"""
 
-    CAPTION = """@Deendayal_Hindi_Movie.<blockquote><a href="https://t.me//Deendayal_Hindi_Movie"><b>@Nobita_Files_Filter_bot {file_name}</b></a></blockquote>
+    CAPTION = """@Deendayal_Hindi_Movies.<blockquote><a href="https://t.me//Deendayal_Hindi_Movies"><b>@Nobita_Files_Filter_bot {file_name}</b></a></blockquote>
 
-<b>⚙️ sɪᴢᴇ : {file_size}</b>""" 
+<b>⚙️ sɪᴢᴇ : {file_size}</b>
+
+Powered By ⚜️ :「 @Deendayal_Hindi_Movie」
+""" 
 
     IMDB_TEMPLATE_TXT = """
 <b>Query: {qurey}
